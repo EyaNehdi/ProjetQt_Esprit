@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>images/240004.jpg</file>
+        <file>images/aeroport.jpg</file>
+        <file>images/back.jfif</file>
+        <file>images/back.jpg</file>
+        <file>images/check.png</file>
+        <file>images/gestbill.jpg</file>
+        <file>images/icons8-airplane-window-open-80.png</file>
+        <file>images/icons8-delete-24.png</file>
+        <file>icons8-edit-property-50.png</file>
+        <file>images/icons8-fighter-jet-50.png</file>
+        <file>images/icons8-list-30.png</file>
+        <file>images/icons8-microsoft-excel-32.png</file>
+        <file>images/icons8-new-ticket-16.png</file>
+        <file>images/icons8-plus-24.png</file>
+        <file>images/icons8-scan-24.png</file>
+        <file>images/pngaman.png</file>
+        <file>images/sky.png</file>
+        <file>images/xx</file>
+        <file>images/icons8-edit-property-50.png</file>
+    </qresource>
+</RCC>

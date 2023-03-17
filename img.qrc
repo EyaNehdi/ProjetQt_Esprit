@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>image/240004.jpg</file>
+        <file>image/back.jfif</file>
+        <file>image/back.jpg</file>
+        <file>image/gestbill.jpg</file>
+        <file>image/logo.png</file>
+        <file>image/avionpetit.jpg</file>
+        <file>image/lalala.jpg</file>
+        <file>image/OIP.jfif</file>
+        <file>image/smart.png</file>
+        <file>image/air.jfif</file>
+    </qresource>
+</RCC>
